@@ -17,7 +17,7 @@ O Curve Catcher permite a coleta e visualização gráfica de dados em tempo rea
 - Escolha sua porta serial e aperte em conectar.
 ![Sliders](images/value_for_slider.png)
 - É possível ajustar o gráfico com os sliders (em tempo real!), se você preferir colocar um valor específico, basta clicar 2 vezes com o botão esquerdo no slider
-![Gráfico](images/curve_catched)
-- CLique em iniciar coleta para gerar o gráfico, sinta-se livre para ajustar o gráfico e depois para salvar, basta clicar no botão "salvar", os valores da coleta e o gráfico gerado serão salvos com o mesmo nome.
+![Gráfico](images/curve_catched.png)
+- Clique em iniciar coleta para gerar o gráfico, sinta-se livre para ajustar o gráfico e depois para salvar, basta clicar no botão "salvar", os valores da coleta e o gráfico gerado serão salvos com o mesmo nome.
 
 
